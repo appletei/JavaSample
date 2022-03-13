@@ -1,5 +1,3 @@
-# JavaSample
+# JavaTest
 
-JavaSample
-
-Learning Java
+Learn Java
