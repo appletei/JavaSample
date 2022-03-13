@@ -1,3 +1,3 @@
-# JavaTest
+# Java Sample
 
 Learn Java
